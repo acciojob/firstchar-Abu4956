@@ -1,5 +1,5 @@
 function firstChar(text) {
-  // your code here
+  return str.trimStart()[0] || "";
 }
 
 // Do not change the code below
